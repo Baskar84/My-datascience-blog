@@ -1,1 +1,1 @@
-Sitemap: https://baskar84.github.io/My-datascience-blog/sitemap.xml
+Sitemap: https://baskar-t.github.io/My-datascience-blog/sitemap.xml
